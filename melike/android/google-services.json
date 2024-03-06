@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163863993520",
+    "project_id": "istek-d3264",
+    "storage_bucket": "istek-d3264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163863993520:android:b8310a0ba6adabe3172f75",
+        "android_client_info": {
+          "package_name": "com.melike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1F4HCbh2OYKn7fHWlrF2S3bf6zD69jVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
